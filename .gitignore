@@ -1,0 +1,7 @@
+# Fichier pour les variables d'environnement locales
+.env
+
+# Dossier de l'environnement virtuel Python
+venv/
+__pycache__/
+*.pyc
