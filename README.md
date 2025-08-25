@@ -4,13 +4,13 @@ Une application web de démonstration pour interroger l'API France Travail en te
 
 ---
 
-### 🚀 Contexte du Projet
+### Contexte du Projet
 
 Cette application est une démonstration technique simplifiée issue d'un projet plus vaste nommé **Data Collector**.
 
 **Data Collector** est un outil de collecte et d'analyse de données massives sur le marché de l'emploi. Dans sa version complète, il a permis d'extraire et de traiter plus de **480 000 offres d'emploi** directement depuis l'API de France Travail.
 
-### 🎯 L'Objectif Final
+### L'Objectif Final
 
 La collecte de ces données est la première étape d'un projet ambitieux : la création d'une plateforme destinée à cartographier le paysage des métiers en France.
 
@@ -23,7 +23,7 @@ L'objectif de cette future plateforme est de :
 
 En bref, ce projet vise à offrir une vision claire et basée sur la donnée des compétences requises pour chaque métier aujourd'hui.
 
-### 🛠️ À propos de cette Démo
+### À propos de cette Démo
 
 Cette application web est une interface légère qui démontre la brique "collecte de données" du projet. Plutôt que de stocker les offres, elle interroge l'API France Travail en direct.
 
@@ -35,7 +35,7 @@ Elle permet de :
 
 ---
 
-### ⚙️ Technologies Utilisées
+### Technologies Utilisées
 
 * **Langage :** Python
 * **Framework Web / UI :** NiceGUI
